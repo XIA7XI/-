@@ -1,0 +1,5 @@
+{
+  "name": "Stardew Fishing Sim",
+  "description": "A high-fidelity simulation of the fishing minigame mechanics from Stardew Valley, featuring gravity-based physics, inertia, and varying fish difficulty.",
+  "requestFramePermissions": []
+}
